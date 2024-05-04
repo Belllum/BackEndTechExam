@@ -15,9 +15,8 @@ For treasure boxes worth more than $10, I did the same thing but added an extra 
 I used a loop to figure out which location had the lowest value, considering the treasure ID from before.
 
 For the bonus endpoint of the project, I thought about finding the closest treasure box based on your location. 
-To do this, I made a special function (calculateDistance) that measures the distance between your location and all the treasures in the table. 
+To do this, I made a function (calculateDistance) that measures the distance between your location and all the treasures in the table. 
 I then saved these distances in a new list and used a loop to find the one with the shortest distance.
-
 
 
 
