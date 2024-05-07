@@ -2,7 +2,7 @@
 
 #  Technical Exam Kitra
 #A. Find treasure boxes within 1km/10 (km)
-Get http://localhost:3001](https://backendtechexam.onrender.com)/kitra?latitude=14.552036595352455&longitude=121.01696118771324&distance=10
+Get https://backendtechexam.onrender.com/kitra?latitude=14.552036595352455&longitude=121.01696118771324&distance=10
 
 #B. Find treasure boxes that have a value of more than $10 (inclusive) prize_value value within 1km / 10 (km) with the following input.
 Get https://backendtechexam.onrender.com/kitra/prize?latitude=14.552036595352455&longitude=121.01696118771324&distance=10&prize_value=15
